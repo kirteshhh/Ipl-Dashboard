@@ -1,3 +1,5 @@
+
+
 1. Project Overview
 
 The IPL Dashboard is an interactive Power BI project designed to provide real-time insights into IPL matches, players, and team performance. It consolidates raw data into a visually engaging format, enabling quick analysis of live scores, fixtures, player stats, and season standings.
@@ -51,7 +53,7 @@ Shows team strengths and weaknesses through points and NRR comparisons.
 Highlights season trends like most consistent scorers or wicket-takers.
 Provides engaging visuals that make IPL data exploration intuitive and enjoyable.
 
-9. screenshots
+5. screenshots
 ipl_dashboard_home: https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_home.png
 ipl_dashboard_overview:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_overview.png
 ipl_dashboard_squads:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_Squads.png
