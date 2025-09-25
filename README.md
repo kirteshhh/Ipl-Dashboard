@@ -55,4 +55,4 @@ Provides engaging visuals that make IPL data exploration intuitive and enjoyable
 ipl_dashboard_home: https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_home.png
 ipl_dashboard_overview:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_overview.png
 ipl_dashboard_squads:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_Squads.png
-ipl_dashboard_point table:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_point table.png
+ipl_dashboard_point table:https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_point%20table.png
