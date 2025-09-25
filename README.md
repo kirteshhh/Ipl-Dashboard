@@ -52,4 +52,7 @@ Highlights season trends like most consistent scorers or wicket-takers.
 Provides engaging visuals that make IPL data exploration intuitive and enjoyable.
 
 9. screenshots
-ipl_dashboard_home:
+ipl_dashboard_home: https://github.com/kirteshhh/Ipl-Dashboard/blob/main/ipl_dashboard_home.png
+ipl_dashboard_overview:
+ipl_dashboard_squads:
+ipl_dashboard_point table:
